@@ -1,0 +1,4 @@
+out/
+input/
+node_modules/
+*.png.tmp
